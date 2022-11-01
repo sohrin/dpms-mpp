@@ -1,4 +1,4 @@
-# Chat example app
+# DPMS(Double Play Management System) app
 
 ## Run on Android:
 - connect device or emulator
